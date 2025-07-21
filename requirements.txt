@@ -5,3 +5,6 @@ pytz
 pandas
 pytrends
 textblob
+matplotlib
+iso-639
+isodate
